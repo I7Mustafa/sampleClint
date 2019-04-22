@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clint</string>
+    <string name="enter_the_massage">Enter Massage</string>
+    <string name="send">Send</string>
+</resources>
